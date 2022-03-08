@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 * {
@@ -25,4 +26,10 @@ nav {
 a, a:hover {
     text-decoration: none;
     color: unset;
+=======
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+>>>>>>> 78dfea0702246a4af073ed1fa6bc126b5eb90793
 }
